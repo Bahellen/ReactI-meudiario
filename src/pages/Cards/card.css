@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    border: solid 1px pink;
+    padding: 30px;
+    gap: 50px;
+
+}
+
+img{
+    width: 50%;
+}
